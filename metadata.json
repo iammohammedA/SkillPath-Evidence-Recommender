@@ -1,0 +1,6 @@
+{
+  "name": "SkillEvidence Career Recommender",
+  "description": "Evidence-based vocational and technical career recommendation engine powered by demonstrated skills, practical assessments, portfolio artifacts, and human-in-the-loop audit workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
